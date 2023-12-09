@@ -16,7 +16,7 @@ public class Dummy : MonoBehaviour
 
         Debug.Log("bsdbdbhfmjdbfhsbdmhbfsh");
         Debug.Log("hello");
-        Print("DEEEE");
+        Print("DEEEEhgfjhdbfkshbfkhsb");
 
     }
 
