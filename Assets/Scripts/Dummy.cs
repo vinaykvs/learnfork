@@ -13,7 +13,9 @@ public class Dummy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        
+        Debug.Log("hello");
+        Debug.Log("hello");
         Debug.Log("hihgyuygyu");
         print("shgds");
         Debug.Log("hello");
