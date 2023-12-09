@@ -15,6 +15,7 @@ public class Dummy : MonoBehaviour
     {
 
         Debug.Log("hello");
+        Debug.Log("hello");
     }
 
     
