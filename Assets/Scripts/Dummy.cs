@@ -14,7 +14,7 @@ public class Dummy : MonoBehaviour
     void Update()
     {
 
-        Debug.Log("hello");
+        Debug.Log("bsdbdbhfmjdbfhsbdmhbfsh");
         Debug.Log("hello");
         Print("DEEEE");
 
